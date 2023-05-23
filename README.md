@@ -7,3 +7,5 @@ Install following libraries
 2. shutil
 3. PyPDF2
 4. Pillow
+
+Open the Kindle book in Kindle app on PC then run the python script and put the cursor on first page of Kindle book, script will automatically go through all pages and takes screenshots of each page then create pdf file of the same.
